@@ -4,6 +4,7 @@ path: /remark-kitchen-sink
 date: 2020-02-21T12:12:25.364Z
 title: 'Hello World: The remark Kitchen Sink'
 thumbnail: /assets/image-6.jpg
+metaDescription: 'the remark kitchen sink'
 ---
 # h1 Heading 8-)
 
