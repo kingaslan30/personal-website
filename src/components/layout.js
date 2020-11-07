@@ -19,13 +19,14 @@ export default ({ children }) => {
     <div className="site-wrapper">
       <header className="site-header">
         <div className="site-title">
-          <Link to="/">{data.site.siteMetadata.title}</Link>
+          <Link className="site-logo-dark" to="/"><img></img></Link>
+          <Link className="site-logo-light" to="/"><img></img></Link>
         </div>
         <Navigation />
       </header>
       {children}
       <footer className="site-footer">
-        <p>&copy; {new Date().getFullYear()} Delog &bull; Crafted with <span role="img" aria-label="love">❤️</span> by <a href="https://w3layouts.com">W3Layouts</a></p>
+        <p>&copy; {new Date().getFullYear()} &bull; Crafted with <span role="img" aria-label="love">❤️</span> by me</p>
       </footer>
     </div>
   )

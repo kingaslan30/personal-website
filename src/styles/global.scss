@@ -325,9 +325,15 @@ body.dark {
   .gg-moon {
     display: none;
   }
+  .site-logo-light img {
+    display: none;
+  }
 }
 body.light {
   .gg-sun {
+    display: none;
+  }
+  .site-logo-dark img {
     display: none;
   }
 }
@@ -336,6 +342,25 @@ body.light {
   height: 24px;
   margin-left: 20px;
 }
+
+.site-logo-dark img {
+  content:url("/assets/personal-logo-dark.png");
+  background-repeat: no-repeat;
+  width: 256px; /*or your image's width*/
+  height: auto; /*or your image's height*/
+  margin: 0;
+  padding: 0;
+}
+
+.site-logo-light img {
+  content:url("/assets/personal-logo-light.png");
+  background-repeat: no-repeat;
+  width: 256px; /*or your image's width*/
+  height: auto; /*or your image's height*/
+  margin: 0;
+  padding: 0;
+}
+
 // CSS.gg icons for sun and moon
 .gg-sun {
   box-sizing: border-box;
