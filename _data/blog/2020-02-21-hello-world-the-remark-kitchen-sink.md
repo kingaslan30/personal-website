@@ -1,455 +1,73 @@
 ---
 template: BlogPost
-path: /remark-kitchen-sink
-date: 2020-02-21T12:12:25.364Z
-title: 'Hello World: The remark Kitchen Sink'
-thumbnail: /assets/image-6.jpg
-metaDescription: 'the remark kitchen sink'
+path: /intellipass
+date: 2020-12-14T01:00:00.000Z
+title: Intellipass
+metaDescription: ''
+thumbnail: /assets/Copy of Intellipass Case Study Header.jpg
 ---
-# h1 Heading 8-)
+An automated high-speed temperature scanning with AI based facial recognition
 
-## h2 Heading
+**Role**: UX, UI, Go-to-market strategy, Marketing plan and execution, Project management
 
-### h3 Heading
+## **Problem**
 
-#### h4 Heading
+Covid-19 has mandated new health guidelines to keep employees and customers safe. Everyone must adhere to PPE standards inline with OSHAs standards for infectious diseases. Businesses are struggling to keep up with these new standards and are unable to safely open their business. They shouldn't have to rely on human interaction and intervention to enforce these guidelines; that puts more people at risk.Horizontal Rules
 
-##### h5 Heading
+## **Competitive Landscape**
 
-###### h6 Heading
+First I conducted an analysis of other temperature screening systems (Richtech, Popshap, Spintouch, Real Time Networks) and identified their distinguishing features as well as what made each brand unique.
 
-## Horizontal Rules
+All companies offer the baseline features of temperature scanning and facial scanning with mask detection. Richtech and Real Time Networks also offer QR code based health questionnaire and an additional visitor badge printing capability, however, it is unclear how these 2 features can be setup or if you have control over customization. There is also no employee ID card access feature.Emphasis
 
-- - -
+**Opportunity**
 
-- - -
+In order to distinguish itself, a new entrant in this market should work to offer a reliable customizable solution that can scale beyond pandemic times. None of the competitors offer software to go along with the hardware. A software solution allows the business's security team to monitor from anywhere and is scalable to unlimited amount of locations and kiosks. To achieve this Intellipass will offer an encrypted cloud based software to go along with the hardware. It will also offer an NFC card scanner which can be used as a two factor authentication for entry, serve as a backup where facial recognition is not setup, or simply be connected to access control systems when mask detection is not needed. All facial recognition data will be saved on the local device for security and the device will feature a IP65 water and dust resistant standard for longevity.
 
-- - -
+**Target Audience**
 
-## Typographic replacements
+Businesses who want to protect their customers and hardworking employees and promote a safe working environments. These businesses would be at high-risk due to the amount of people coming in and out of the building.
 
-Enable typographer option to see result.
+Categories include: banks, gyms, daycare centers, airports, private schools, stadiums, office buildings, clinics and hospitals, and factories.
 
-(c) (C) (r) (R) (tm) (TM) (p) (P) +-
+**Distribution**
 
-test.. test... test..... test?..... test!....
+We will leverage the reseller's network to get introduction to the businesses. They will aggressively push the product in the market, demo, and finalize the sale. Once sale is finalized the installation, setup, software authentication, and support will be managed by our in-house team.
 
-!!!!!! ???? ,,  -- ---
+Due to the technical and high-priced nature of the product this will not be an e-comm solution where the customers can purchase the device on the website. We want to maintain customer satisfaction and want to ensure they understand all the features, security standards, and have no problem with setting up the device(s) at their site.
 
-"Smartypants, double quotes" and 'single quotes'
+**Pricing Strategy**
 
-## Emphasis
+We will undercut the prices on the market by 10-40% to reduce the burden on businesses of upfront capital investment. Our software solution will be priced at $75/month which will allow for unlimited user access and 30,000 employees to be uploaded and managed from the system.
 
-**This is bold text**
+**Design Principles**
 
-**This is bold text**
+Overview
 
-*This is italic text*
+I developed a set of design principles to use as guidelines for determining the look and feel of the landing page. The focus was on minimalism so the UX feels intuitive and natural. The UI is in service of functionality, always clear and helpful, never intrusive. It also needs to convey reliability. Even though engagement is simple, you can count on the solution to always work and promote safety for customers and employees.
 
-*This is italic text*
+Intuitive: UX feels natural and copy is clear and succint
 
-~~Strikethrough~~
+Simple: UI is clean, airy, and minimal
 
-## Blockquotes
+Typography
 
-> Blockquotes can also be nested...
->
-> > ...by using additional greater-than signs right next to each other...
-> >
-> > > ...or with spaces between arrows.
+Barlow Condensed
 
-## Lists
+Bahnschrift
 
-Unordered
+Color Scheme
 
-* Create a list by starting a line with `+`, `-`, or `*`
-* Sub-lists are made by indenting 2 spaces:
+The primary color was chosen to convey wisdom and is often associated with feelings of happy and calm. Want the customers to feel that they are without a doubt making the right choice by making an investment for their customers and employee's well being and will bring peace as they open up their businesses.
 
-  * Marker character change forces new list start:
+Primary: #992e72
 
-    * Ac tristique libero volutpat at
-    * Facilisis in pretium nisl aliquet
-    * Nulla volutpat aliquam velit
-* Very easy!
+Secondary: #001e42Unordered
 
-Ordered
 
-1. Lorem ipsum dolor sit amet
-2. Consectetur adipiscing elit
-3. Integer molestie lorem at massa
-4. You can use sequential numbers...
-5. ...or keep all the numbers as `1.`
 
-Start numbering with offset:
+**Landing page**
 
-57. foo
-58. bar
+Landing page was designed to serve as a central point for leads from all marketing channels, including, tv and google ads, email marketing, and word of mouth advertising. It should be a way for potential customers to get an understanding of how Intellipass can help open their business safely. I included an automation with Mailchimp and Calendly for customers to quickly sign up for a session with one of the sales reps to ask questions and demo of the software (dashboards, settings, device options, etc).
 
-## Code
-
-Inline `code`
-
-Indented code
-
-```
-// Some comments
-line 1 of code
-line 2 of code
-line 3 of code
-```
-
-Block code "fences"
-
-```
-Sample text here...
-```
-
-Syntax highlighting
-
-```js
-var foo = function (bar) {
-  return bar++;
-};
-
-console.log(foo(5));
-```
-
-## Tables
-
-| Option | Description                                                               |
-| ------ | ------------------------------------------------------------------------- |
-| data   | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default.    |
-| ext    | extension to be used for dest files.                                      |
-
-Right aligned columns
-
-| Option | Description                                                               |
-| ------ | ------------------------------------------------------------------------- |
-| data   | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default.    |
-| ext    | extension to be used for dest files.                                      |
-
-## Links
-
-[link text](http://dev.nodeca.com)
-
-[link with title](http://nodeca.github.io/pica/demo/ "title text!")
-
-Autoconverted link https://github.com/nodeca/pica (enable linkify to see)
-
-## Images
-
-![Minion](https://octodex.github.com/images/minion.png) ![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
-
-Like links, Images also have a footnote style syntax
-
-![Alt text](https://octodex.github.com/images/dojocat.jpg "The Dojocat")
-
-With a reference later in the document defining the URL location:
-
-## Plugins
-
-The killer feature of `markdown-it` is very effective support of [syntax plugins](https://www.npmjs.org/browse/keyword/markdown-it-plugin).
-
-### [Emojies](https://github.com/markdown-it/markdown-it-emoji)
-
-> Classic markup: :wink: :crush: :cry: :tear: :laughing: :yum:
->
-> Shortcuts (emoticons): :-) :-( 8-) ;)
-
-see [how to change output](https://github.com/markdown-it/markdown-it-emoji#change-output) with twemoji.
-
-### [Subscript](https://github.com/markdown-it/markdown-it-sub) / [Superscript](https://github.com/markdown-it/markdown-it-sup)
-
-* 19^th^
-* H\~2\~O
-
-### [<ins>](https://github.com/markdown-it/markdown-it-ins)
-
-++Inserted text++
-
-### [<mark>](https://github.com/markdown-it/markdown-it-mark)
-
-\==Marked text==
-
-### [Footnotes](https://github.com/markdown-it/markdown-it-footnote)
-
-Footnote 1 link\[^first].
-
-Footnote 2 link\[^second].
-
-Inline footnote^\[Text of inline footnote] definition.
-
-Duplicated footnote reference\[^second].
-
-\[^first]: Footnote **can have markup**
-
-```
-and multiple paragraphs.
-```
-
-\[^second]: Footnote text.
-
-### [Definition lists](https://github.com/markdown-it/markdown-it-deflist)
-
-Term 1
-
-:   Definition 1 with lazy continuation.
-
-Term 2 with *inline markup*
-
-:   Definition 2
-
-```
-    { some code, part of Definition 2 }
-
-Third paragraph of definition 2.
-```
-
-*Compact style:*
-
-Term 1   ~ Definition 1
-
-Term 2   \~ Definition 2a
-  \~ Definition 2b
-
-### [Abbreviations](https://github.com/markdown-it/markdown-it-abbr)
-
-This is HTML abbreviation example.
-
-It converts "HTML", but keep intact partial entries like "xxxHTMLyyy" and so on.
-
-\*\[HTML]: Hyper Text Markup Language
-
-### [Custom containers](https://github.com/markdown-it/markdown-it-container)
-
-::: warning *here be dragons* :::---
-**Advertisement :)**
-
-* **[pica](https://nodeca.github.io/pica/demo/)** - high quality and fast image resize in browser.
-* **[babelfish](https://github.com/nodeca/babelfish/)** - developer friendly i18n with plurals support and easy syntax.
-
-You will like those projects!
-
-- - -
-
-# h1 Heading 8-)
-
-## h2 Heading
-
-### h3 Heading
-
-#### h4 Heading
-
-##### h5 Heading
-
-###### h6 Heading
-
-## Horizontal Rules
-
-- - -
-
-- - -
-
-- - -
-
-## Typographic replacements
-
-Enable typographer option to see result.
-
-(c) (C) (r) (R) (tm) (TM) (p) (P) +-
-
-test.. test... test..... test?..... test!....
-
-!!!!!! ???? ,,  -- ---
-
-"Smartypants, double quotes" and 'single quotes'
-
-## Emphasis
-
-**This is bold text**
-
-**This is bold text**
-
-*This is italic text*
-
-*This is italic text*
-
-~~Strikethrough~~
-
-## Blockquotes
-
-> Blockquotes can also be nested...
->
-> > ...by using additional greater-than signs right next to each other...
-> >
-> > > ...or with spaces between arrows.
-
-## Lists
-
-Unordered
-
-* Create a list by starting a line with `+`, `-`, or `*`
-* Sub-lists are made by indenting 2 spaces:
-
-  * Marker character change forces new list start:
-
-    * Ac tristique libero volutpat at
-    * Facilisis in pretium nisl aliquet
-    * Nulla volutpat aliquam velit
-* Very easy!
-
-Ordered
-
-1. Lorem ipsum dolor sit amet
-2. Consectetur adipiscing elit
-3. Integer molestie lorem at massa
-4. You can use sequential numbers...
-5. ...or keep all the numbers as `1.`
-
-Start numbering with offset:
-
-57. foo
-58. bar
-
-## Code
-
-Inline `code`
-
-Indented code
-
-```
-// Some comments
-line 1 of code
-line 2 of code
-line 3 of code
-```
-
-Block code "fences"
-
-```
-Sample text here...
-```
-
-Syntax highlighting
-
-```js
-var foo = function (bar) {
-  return bar++;
-};
-
-console.log(foo(5));
-```
-
-## Tables
-
-| Option | Description                                                               |
-| ------ | ------------------------------------------------------------------------- |
-| data   | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default.    |
-| ext    | extension to be used for dest files.                                      |
-
-Right aligned columns
-
-| Option | Description                                                               |
-| ------ | ------------------------------------------------------------------------- |
-| data   | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default.    |
-| ext    | extension to be used for dest files.                                      |
-
-## Links
-
-[link text](http://dev.nodeca.com)
-
-[link with title](http://nodeca.github.io/pica/demo/ "title text!")
-
-Autoconverted link https://github.com/nodeca/pica (enable linkify to see)
-
-## Images
-
-![Minion](https://octodex.github.com/images/minion.png) ![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
-
-Like links, Images also have a footnote style syntax
-
-![Alt text](https://octodex.github.com/images/dojocat.jpg "The Dojocat")
-
-With a reference later in the document defining the URL location:
-
-## Plugins
-
-The killer feature of `markdown-it` is very effective support of [syntax plugins](https://www.npmjs.org/browse/keyword/markdown-it-plugin).
-
-### [Emojies](https://github.com/markdown-it/markdown-it-emoji)
-
-> Classic markup: :wink: :crush: :cry: :tear: :laughing: :yum:
->
-> Shortcuts (emoticons): :-) :-( 8-) ;)
-
-see [how to change output](https://github.com/markdown-it/markdown-it-emoji#change-output) with twemoji.
-
-### [Subscript](https://github.com/markdown-it/markdown-it-sub) / [Superscript](https://github.com/markdown-it/markdown-it-sup)
-
-* 19^th^
-* H\~2\~O
-
-### [<ins>](https://github.com/markdown-it/markdown-it-ins)
-
-++Inserted text++
-
-### [<mark>](https://github.com/markdown-it/markdown-it-mark)
-
-\==Marked text==
-
-### [Footnotes](https://github.com/markdown-it/markdown-it-footnote)
-
-Footnote 1 link\[^first].
-
-Footnote 2 link\[^second].
-
-Inline footnote^\[Text of inline footnote] definition.
-
-Duplicated footnote reference\[^second].
-
-\[^first]: Footnote **can have markup**
-
-```
-and multiple paragraphs.
-```
-
-\[^second]: Footnote text.
-
-### [Definition lists](https://github.com/markdown-it/markdown-it-deflist)
-
-Term 1
-
-:   Definition 1 with lazy continuation.
-
-Term 2 with *inline markup*
-
-:   Definition 2
-
-```
-    { some code, part of Definition 2 }
-
-Third paragraph of definition 2.
-```
-
-*Compact style:*
-
-Term 1   ~ Definition 1
-
-Term 2   \~ Definition 2a
-  \~ Definition 2b
-
-### [Abbreviations](https://github.com/markdown-it/markdown-it-abbr)
-
-This is HTML abbreviation example.
-
-It converts "HTML", but keep intact partial entries like "xxxHTMLyyy" and so on.
-
-\*\[HTML]: Hyper Text Markup Language
-
-### [Custom containers](https://github.com/markdown-it/markdown-it-container)
-
-::: warning *here be dragons* :::
+[get.intellipass.io](http://get.intellipass.io)
