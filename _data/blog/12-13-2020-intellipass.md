@@ -29,7 +29,9 @@ All companies offer the baseline features of temperature scanning and facial sca
 
 ![](/assets/opportunity_header.jpg)
 
-In order to distinguish itself, a new entrant in this market should work to offer a reliable customizable solution that can scale beyond pandemic times. None of the competitors offer software to go along with the hardware. A software solution allows the business's security team to monitor from anywhere and is scalable to an unlimited amount of locations and kiosks. To achieve this Intellipass will offer encrypted cloud-based software to go along with the hardware. It will also offer an NFC card scanner which can be used as a two-factor authentication for entry, serve as a backup where facial recognition is not setup, or simply be connected to access control systems when mask detection is not needed. All facial recognition data will be saved on the local device for security and the device will feature an IP65 water and dust resistant standard for longevity.
+In order to distinguish itself, a new entrant in this market should work to offer a reliable customizable solution that can scale beyond pandemic times. None of the competitors offer software to go along with the hardware. A software solution allows the business's security team to monitor from anywhere and is scalable to an unlimited amount of locations and kiosks. To achieve this Intellipass will offer encrypted cloud-based software to go along with the hardware. It will also offer an NFC card scanner which can be used as two-factor authentication for entry, serve as a backup where facial recognition is not setup, or simply be connected to access control systems when mask detection is not needed. All facial recognition data will be saved on the local device for security and the device will feature an IP65 water and dust resistant standard for longevity.
+
+
 
 ## **Target Audience**
 
@@ -44,6 +46,8 @@ Categories include banks, gyms, daycare centers, airports, private schools, stad
 We will leverage the reseller's network to get an introduction to the businesses. They will aggressively push the product in the market, demo, and finalize the sale. Once the sale is finalized the installation, setup, software authentication, and support will be managed by our in-house team.
 
 Due to the technical and high-priced nature of the product, this will not be an e-comm solution where the customers can purchase the device on the website. We want to maintain customer satisfaction and want to ensure they understand all the features, security standards, and have no problem with setting up the device(s) at their site.
+
+
 
 ## **Pricing Strategy**
 
@@ -84,3 +88,9 @@ Secondary: #001e42Unordered
 The landing page was designed to serve as a central point for leads from all marketing channels, including, tv and google ads, email marketing, and word of mouth advertising. It should be a way for potential customers to get an understanding of how Intellipass can help open their business safely. I included automation with Mailchimp and Calendly for customers to quickly sign up for a session with one of the sales reps to ask questions and demo the software (dashboards, settings, device options, etc).
 
 [get.intellipass.io](http://get.intellipass.io)
+
+![](/assets/lp_top.png)
+
+![](/assets/lp_features.png)
+
+![](/assets/lp_bottom.jpg)
