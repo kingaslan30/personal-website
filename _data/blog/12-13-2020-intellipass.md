@@ -35,6 +35,8 @@ Businesses who want to protect their customers and hardworking employees and pro
 
 Categories include banks, gyms, daycare centers, airports, private schools, stadiums, office buildings, clinics and hospitals, and factories.
 
+![](/assets/audience_header.jpg)
+
 ## **Distribution**
 
 We will leverage the reseller's network to get an introduction to the businesses. They will aggressively push the product in the market, demo, and finalize the sale. Once the sale is finalized the installation, setup, software authentication, and support will be managed by our in-house team.
