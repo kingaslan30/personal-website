@@ -23,7 +23,7 @@ All companies offer the baseline features of temperature scanning and facial sca
 
 ## **Opportunity**
 
-![](/assets/5f2b114387fd41653ff93d33_software4-p-1080.jpeg)
+![]()
 
 ![](/assets/5f2b2f71f30d090db3919551_software1.jpg)
 
