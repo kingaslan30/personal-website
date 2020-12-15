@@ -23,7 +23,7 @@ All companies offer the baseline features of temperature scanning and facial sca
 
 ## **Opportunity**
 
-![](/assets/5f2b2f71f30d090db3919551_software1.jpg)
+![](/assets/opportunity_header.jpg)
 
 In order to distinguish itself, a new entrant in this market should work to offer a reliable customizable solution that can scale beyond pandemic times. None of the competitors offer software to go along with the hardware. A software solution allows the business's security team to monitor from anywhere and is scalable to an unlimited amount of locations and kiosks. To achieve this Intellipass will offer encrypted cloud-based software to go along with the hardware. It will also offer an NFC card scanner which can be used as a two-factor authentication for entry, serve as a backup where facial recognition is not setup, or simply be connected to access control systems when mask detection is not needed. All facial recognition data will be saved on the local device for security and the device will feature an IP65 water and dust resistant standard for longevity.
 
