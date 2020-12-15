@@ -13,13 +13,17 @@ Role: UX, UI, Go-to-market strategy, Marketing plan, and execution, Project mana
 
 Covid-19 has mandated new health guidelines to keep employees and customers safe. Everyone must adhere to PPE standards inline with OSHA's standards for infectious diseases. Businesses are struggling to keep up with these new standards and are unable to safely open their business. They shouldn't have to rely on human interaction and intervention to enforce these guidelines, that puts more people at risk.
 
+
+
 ## **Competitive Landscape**
 
 ![](/assets/Intellipass Competition Header.jpg)
 
 First I conducted an analysis of other temperature screening systems (Richtech, Popshap, Spintouch, Real Time Networks) and identified their distinguishing features as well as what made each brand unique.
 
-All companies offer the baseline features of temperature scanning and facial scanning with mask detection. Richtech and Real Time Networks also offer QR code-based health questionnaires and an additional visitor badge printing capability, however, it is unclear how these 2 features can be setup or if you have control over customization. There is also no employee ID card access feature. Emphasis
+All companies offer the baseline features of temperature scanning and facial scanning with mask detection. Richtech and Real Time Networks also offer QR code-based health questionnaires and an additional visitor badge printing capability, however, it is unclear how these 2 features can be setup or if you have control over customization. There is also no employee ID card access feature. 
+
+
 
 ## **Opportunity**
 
