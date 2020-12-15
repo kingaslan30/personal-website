@@ -148,6 +148,30 @@ a {
   line-height: 1.5;
   font-weight: 300;
 }
+
+.profile-section{
+  display:flex; 
+  flex-direction: column;
+  align-items: center;
+  line-height: 1.5;
+}
+
+.profile-photo{
+  border-radius: 50%;
+  width: 30%;
+  height: 30%;
+}
+
+.bio{
+  padding-top: 50px;
+  max-width: 80%;
+}
+
+.deets{
+  padding-top: 25px;
+  align-self: flex-start;
+}
+
 .post {
   padding: 0;
   background:var(--background);
