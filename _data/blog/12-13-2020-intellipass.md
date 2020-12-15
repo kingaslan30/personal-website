@@ -4,7 +4,7 @@ path: /intellipass
 date: 2020-12-14T01:00:00.000Z
 title: Intellipass
 metaDescription: ''
-thumbnail: /assets/Copy of Intellipass Case Study Header.jpg
+thumbnail: /assets/intellipass_featured_header.jpg
 ---
 An automated high-speed temperature scanning with AI-based facial recognition\
 Role: UX, UI, Go-to-market strategy, Marketing plan, and execution, Project management
@@ -17,7 +17,7 @@ Covid-19 has mandated new health guidelines to keep employees and customers safe
 
 ## **Competitive Landscape**
 
-![](/assets/Intellipass Competition Header.jpg)
+![](/assets/intellipass_competition_header.jpg)
 
 First I conducted an analysis of other temperature screening systems (Richtech, Popshap, Spintouch, Real Time Networks) and identified their distinguishing features as well as what made each brand unique.
 
@@ -27,7 +27,7 @@ All companies offer the baseline features of temperature scanning and facial sca
 
 ## **Opportunity**
 
-![](/assets/opportunity_header.jpg)
+![](/assets/intellipass_opportunity_header.jpg)
 
 In order to distinguish itself, a new entrant in this market should work to offer a reliable customizable solution that can scale beyond pandemic times. None of the competitors offer software to go along with the hardware. A software solution allows the business's security team to monitor from anywhere and is scalable to an unlimited amount of locations and kiosks. To achieve this Intellipass will offer encrypted cloud-based software to go along with the hardware. It will also offer an NFC card scanner which can be used as two-factor authentication for entry, serve as a backup where facial recognition is not setup, or simply be connected to access control systems when mask detection is not needed. All facial recognition data will be saved on the local device for security and the device will feature an IP65 water and dust resistant standard for longevity.
 
@@ -39,7 +39,7 @@ Businesses who want to protect their customers and hardworking employees and pro
 
 Categories include banks, gyms, daycare centers, airports, private schools, stadiums, office buildings, clinics and hospitals, and factories.
 
-![](/assets/audience_header.jpg)
+![](/assets/intellipass_audience_header.jpg)
 
 ## **Distribution**
 
@@ -89,8 +89,8 @@ The landing page was designed to serve as a central point for leads from all mar
 
 [get.intellipass.io](http://get.intellipass.io)
 
-![](/assets/lp_top.png)
+![](/assets/intellipass_lp_top.png)
 
-![](/assets/lp_features.png)
+![](/assets/intellipass_lp_features.png)
 
-![](/assets/lp_bottom.jpg)
+![](/assets/intellipass_lp_bottom.jpg)
