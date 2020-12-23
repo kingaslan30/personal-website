@@ -171,6 +171,15 @@ a {
   align-self: flex-start;
 }
 
+.socials {
+  padding-top: 10px;
+}
+
+.icon {
+  width:32px;
+  margin-right: 1%
+}
+
 @media only screen and (max-width: 600px){
   .profile-photo{
     width: 60%;

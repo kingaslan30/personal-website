@@ -24,7 +24,7 @@ const CustomForm = ({ status, message, onValidated }) => {
 
   return (
     <div className="two-grids -contact">
-      <div className="post-thumbnail" style={{backgroundImage: `url('/assets/alexander-andrews-HgUDpaGPTEA-unsplash.jpg')`, marginBottom: 0}}>
+      <div className="post-thumbnail" style={{backgroundImage: `url('/assets/get_in_touch3.jpeg')`, marginBottom: 0}}>
         <h1 className="post-title">Get in Touch</h1>
         <p>Let me help you kick start your next project &rarr;</p>
       </div>
